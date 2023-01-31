@@ -6,4 +6,5 @@
 - BMP180 temperature, air pressure and altitude measuring module
 
 ### Software
-- ESP_idf RTOS https://docs.espressif.com/projects/esp-idf/en/latest/esp32/
+- ESP-IDF RTOS https://docs.espressif.com/projects/esp-idf/en/latest/esp32/
+- C programming language
